@@ -1,0 +1,8 @@
+window  (3):
+    width   hight   frame rate
+Player  (6):
+    radius  point   outline_thickness   speed   vec.x   vec.y
+Enemy   (7):
+    radius_min  radius_max  point_min   point_max   speed   outline_thickness   Spawn_interval
+Bullet  (5):
+    radius  point   outline_thickness   lifetime    speed
